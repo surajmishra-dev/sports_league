@@ -1,0 +1,27 @@
+.name_delete_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.team_details_container {
+  width: 100%;
+  background-color: cornflowerblue;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 20px auto;
+  border-radius: 20px;
+}
+
+.player_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input_container {
+  display: flex;
+}
+.input_container svg {
+  cursor: pointer;
+}
